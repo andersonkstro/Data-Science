@@ -1,12 +1,6 @@
-<p align="center">
-    <a href="http://sigmoidal.ai" alt="Contributors">
-        <img src="https://img.shields.io/badge/sigmoidal-ai-yellow" />
-    </a>
-    <img src="https://shutr.bz/31w55oY">
-    <a href="https://github.com/carlosfab/sigmoidal_ai/issues"><img src="https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat"></a>
-</p>
 
-# Sigmoidal
+
+# Anderson Castro
 
 
 <p align="center">
@@ -15,7 +9,7 @@
 
 Aqui você encontra os *notebooks* e códigos Python do blog Sigmoidal. Cada arquivo deste repositório é parte de um artigo do site. Para conseguir absorver o máximo possível, recomendo você ler também os *posts* do site, para maiores detalhes.
 
-**Sigmoidal:** http://sigmoidal.ai
+**Linkedin:** https://www.linkedin.com/in/anderson-de-castro-223b82163/
 
 ## Notebooks:
 Veja os tutoriais publicados do Sigmoidal:
@@ -43,17 +37,12 @@ O Sigmoidal foi uma iniciativa pessoal para divulgar e tornar mais acessível co
 
 ### Sobre mim:
 
-Sou Piloto Militar da Força Aérea Brasileira e Engenheiro de Missão de Satélite no Centro de Operações Espaciais (COPE), em Brasília-DF. Dentro da área de Data Science, tenho desenvolvido projetos de reconhecimento de alvos a partir de imagens de satélites, também dentro do COPE.
 
-* Graduação em Ciências Aeronáuticas pela AFA.
-* Mestrado em Ciências e Tecnologias Espaciais pelo ITA.
-* MBA em Gestão de Projetos e Processos pela UNIFA.
-* Curso de Operações Espaciais pela Força Aérea do Canadá.
 
-### eBook:
-Se você quer saber mais sobre a carreira em Data Science, os salários de cientistas de dados, qual linguagem de programação aprender ou por onde começar a estudar, baixe meu eBook gratuitamente. 
+* Graduação em Gestão Financeira.
+* Segunda Graduação em Big Data e Inteligência Analítica.
+* MBA em BI - Business Intelligence.
 
-![eBook - Como se Tornar um Cientista de Dados - Python](img/ebook_ds.png)
 
 **Como se Tornar um Cientista de Dados:** https://bit.ly/2MJTkaa
 
